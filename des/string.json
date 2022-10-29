@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "test"
+    },
+    {
+      "name": "camera_permission_confirmation",
+      "value": "This app demonstrates the usage of CameraView. In order to do that, it\n        needs permission to access camera."
+    }
+  ]
+}
